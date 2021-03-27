@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Ashwinim217/Todo-List.git/static/css/main.f871d3c0.chunk.css",
+    "main.js": "/Ashwinim217/Todo-List.git/static/js/main.5ce00900.chunk.js",
+    "main.js.map": "/Ashwinim217/Todo-List.git/static/js/main.5ce00900.chunk.js.map",
+    "runtime-main.js": "/Ashwinim217/Todo-List.git/static/js/runtime-main.d27e638b.js",
+    "runtime-main.js.map": "/Ashwinim217/Todo-List.git/static/js/runtime-main.d27e638b.js.map",
+    "static/js/2.d7ac9f29.chunk.js": "/Ashwinim217/Todo-List.git/static/js/2.d7ac9f29.chunk.js",
+    "static/js/2.d7ac9f29.chunk.js.map": "/Ashwinim217/Todo-List.git/static/js/2.d7ac9f29.chunk.js.map",
+    "static/js/3.45203574.chunk.js": "/Ashwinim217/Todo-List.git/static/js/3.45203574.chunk.js",
+    "static/js/3.45203574.chunk.js.map": "/Ashwinim217/Todo-List.git/static/js/3.45203574.chunk.js.map",
+    "index.html": "/Ashwinim217/Todo-List.git/index.html",
+    "static/css/main.f871d3c0.chunk.css.map": "/Ashwinim217/Todo-List.git/static/css/main.f871d3c0.chunk.css.map",
+    "static/js/2.d7ac9f29.chunk.js.LICENSE.txt": "/Ashwinim217/Todo-List.git/static/js/2.d7ac9f29.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/Ashwinim217/Todo-List.git/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d27e638b.js",
+    "static/js/2.d7ac9f29.chunk.js",
+    "static/css/main.f871d3c0.chunk.css",
+    "static/js/main.5ce00900.chunk.js"
+  ]
+}
